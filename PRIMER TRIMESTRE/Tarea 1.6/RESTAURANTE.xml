@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<restaurante nombre="Grande es el Capitán" telefono1="678123456" telefono2="957224466" telefono3="957987654">
+<plato nombre = "Croquetas de jamón ibérico">
+<alergenos>
+<alergeno>Gluten</alergeno>
+<alergeno>Huevos</alergeno>
+<alergeno>Lacteos</alergeno>
+</alergenos>
+<precios>
+<media_ración>8</media_ración>
+<ración_completa>11</ración_completa>
+</precios>
+<valor_energético>149 kcal (1 croqueta de 85 gramos)</valor_energético>
+</plato>
+<plato nombre = "Gazpacho andaluz">
+<alergenos>
+<alergeno>Gluten</alergeno>
+</alergenos>
+<precio>
+<vaso_250ml>4</vaso_250ml>
+</precio>
+</plato>
+<plato nombre = "Rabo de toro">
+<alergenos>
+<alergeno>Gluten</alergeno>
+<alergeno>Lacteos</alergeno>
+<alergeno>Sulfitos</alergeno>
+</alergenos>
+<valor_energético>217 kcal por 100 gramos</valor_energético>
+<precio>
+<racion>13</racion>
+</precio>
+</plato>
+<plato nombre = "Proximamente"></plato>
+</restaurante>
+
